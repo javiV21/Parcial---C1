@@ -1,0 +1,22 @@
+Clases Paciente y Consulta:
+
+La clase Paciente almacena la información del paciente (nombre y motivo de la consulta).
+La clase Consulta almacena los datos del paciente y la fecha de la consulta.
+Método ingresar_paciente:
+
+Se verifica si el paciente ya tiene una consulta previa. Si es así, se agrega a la sala de espera.
+Si el paciente es nuevo, se le asigna una fecha y se crea una nueva consulta.
+Método mostrar_sala_espera:
+
+en un menu al iniciar el programa proporcionarias las opciones del sistema y tambien en este menu pregunta si ya tenia cita de ante mano
+
+
+
+Clases Producto, Proveedor, y Venta:
+
+Producto maneja el nombre y precio del producto.
+Proveedor incluye nombre, producto, cantidad, precio sugerido y precio de compra.
+Venta maneja los detalles de la venta, incluyendo productos vendidos, total, dinero entregado y vuelto.
+Método atender_proveedor:
+
+Registra o actualiza el producto en el inventario y agrega al proveedor a la lista. Se almacena tanto el precio sugerido
