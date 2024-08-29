@@ -1,0 +1,14 @@
+Una biblioteca ofrece préstamos de libros a través de una tarjeta
+impresa que contiene los datos de la persona que realiza el préstamo. El
+sistema de préstamos registra la fecha en que se retira el libro y la fecha
+límite para su devolución. Realiza un programa que solvente esto de
+una manera más eficaz.
+ Implementar la sección de devolución la cual si la fecha excede la
+que devolución se dará una sanción.
+
+
+Planteamiento de solución:
+una clase para registrar los datos del libro.
+una clase para registrar los datos del cliente (que solicita el préstamo del libro)
+una clase para registrar el préstamo y todo lo necesario de la gestión (incluyendo la devolución).
+uso de herencia (POO) para pasarle a la clase "Prestamo" los parámetros asignados a las clases Libro y Cliente
