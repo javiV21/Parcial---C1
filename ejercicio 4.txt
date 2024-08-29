@@ -1,0 +1,7 @@
+utilizando clases para representar a los animales y al zoológico. 
+La clase Animal encapsula la información de cada animal, como su identificación, especie, edad, peso, área y tratamiento médico, mientras que 
+la clase Zoologico gestiona un grupo de animales, permitiendo agregarlos y listarlos, tanto en general como filtrando aquellos bajo tratamiento.
+
+El menú interactivo permite al usuario realizar operaciones como ingresar nuevos animales, mostrar todos los animales o solo los que están en tratamiento, y salir del programa.
+Se implementaron validaciones para asegurar que la entrada de datos sea correcta y consistente. 
+El uso de diccionarios para los tratamientos facilita el acceso a esta información.
